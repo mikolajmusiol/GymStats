@@ -1,4 +1,4 @@
-# GymProject
+# GymStats
 Projekt mający na celu zbieranie i analizowanie danych z wejść na siłownię.
 ## Opis projektu 
 Projekt jest aplikacją konsolową. Po podaniu w konsoli danych do logowania na stronę siłowni, program zaloguje się przy użyciu narzędzia Selenium i pobierze kod źrodłowy strony zawierający historię wejść na siłownię 
